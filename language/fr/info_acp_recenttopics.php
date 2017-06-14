@@ -71,6 +71,8 @@ $lang = array_merge(
 	'RT_ANTI_TOPICS_EXP'            => 'Saisir les ID des sujets séparés par virgule (exemple : 7,9).<br />Pour ne pas exclure de sujet saisir simplement 0.',
 	'RT_PARENTS'                    => 'Afficher les forums parents',
 	'RT_PARENTS_EXP'                => 'Affiche les forums parents dans la liste des « sujets récents ».',
+	'RT_PAGE_NUMBERMAX'				=> 'Nombre maximal de pages',
+	'RT_PAGE_NUMBERMAX_EXP'			=> 'Détermine le nombre maximal de page (1-999)',
 
 	//Enable for extensions
 	'RT_VIEW_ON'                    => 'Afficher les « sujets récents » sur :',
