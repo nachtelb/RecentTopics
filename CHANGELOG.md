@@ -1,5 +1,8 @@
 ### Changelog 
 
+- 2.1.4 (14/06/2017)
+  - [UPD] add paging limit
+
 - 2.1.3 (22/01/2017)
   - [UPD] new language files ar/es/es-x-tu/pt/ru
   - [FIX] fixed placement post status-icons. parent li should be relative.  
