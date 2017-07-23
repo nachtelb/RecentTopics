@@ -2,7 +2,7 @@
     "name": "paybas/recenttopics",
     "type": "phpbb-extension",
     "description": "Adds a list with a number of recent topics to the index.php in tabbed categories",
-    "homepage": "https://github.com/nachtelb/RecentTopics",
+    "homepage": "https://github.com/nachtelb/RecentinTabs",
     "version": "2.0.6",
     "time": "2016-01-30",
     "license": "GPL-2.0",
@@ -39,11 +39,11 @@
     "extra": {
         "display-name": "Recent Topics with Tabbed Categories",
         "soft-require": {
-             "phpbb/phpbb": ">=3.1.0,<3.2.*@dev"
+             "phpbb/phpbb": ">=3.2.*@dev"
         },
         "version-check": {
-            "host": "paybas.github.io",
-            "directory": "/RecentTopics",
+            "host": "nachtelb.github.io",
+            "directory": "/RecentinTabs",
             "filename": "version.json"
         }
     }
