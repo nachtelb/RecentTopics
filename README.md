@@ -1,7 +1,7 @@
-Recent in Tabs for phpBB 3.1
+Recent in Tabs for phpBB 3.2 (pre-alpha non-functional, download release-version for phpBB 3.1)
 ============
 
-Extension for phpBB 3.1 to display recent topics as first tab with categories in tabs.
+Extension for phpBB 3.2 to display recent topics as first tab with categories in tabs.
 
 ##### Based on NV Recent Topics for phpBB 3.0, by Joas Schilling ([nickvergessen](https://github.com/nickvergessen))
 ##### Based on Recent Topics for phpBB 3.1, by ([PayBas](https://github.com/PayBas))
@@ -13,7 +13,7 @@ Extension for phpBB 3.1 to display recent topics as first tab with categories in
 - PHP 5.3.3 or higher
 
 ## Installation
-1. [Download the latest release](https://github.com/nachtelb/RecentTopics/tree/recent-in-tabs) and unzip it.
+1. [Download the latest release](https://github.com/nachtelb/RecentinTabs) and unzip it.
 2. Copy the entire contents from the unzipped folder to `/ext/paybas/recenttopics/`.
 3. Navigate in the ACP to `Customise -> Manage extensions`.
 4. Find `Recent Topics` under "Disabled Extensions" and click `Enable`.
