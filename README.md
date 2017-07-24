@@ -1,7 +1,8 @@
-Recent in Tabs for phpBB 3.2 (pre-alpha non-functional, download release-version for phpBB 3.1)
+Recent in Tabs for phpBB 3.2
 ============
 
 Extension for phpBB 3.2 to display recent topics as first tab with categories in tabs.
+Status: Basic functionality (Backend useable to set the number of topics to show. Help welcome!)
 
 ##### Based on NV Recent Topics for phpBB 3.0, by Joas Schilling ([nickvergessen](https://github.com/nickvergessen))
 ##### Based on Recent Topics for phpBB 3.1, by ([PayBas](https://github.com/PayBas))
@@ -9,7 +10,7 @@ Extension for phpBB 3.2 to display recent topics as first tab with categories in
 ##### Based on work done by bruninoit ([bruninoit](https://github.com/bruninoit))
 
 #### Requirements
-- phpBB 3.1.0 or higher
+- phpBB 3.2.0 or higher
 - PHP 5.3.3 or higher
 
 ## Installation
