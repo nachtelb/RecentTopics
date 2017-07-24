@@ -1,0 +1,14 @@
+#categories  .tab > a:hover {
+	background-color: #4E4E4E;
+	color: #E0E0E0;
+}
+
+#categories .activetab > a,
+#categories .activetab > a:hover {
+	background: #003300;
+	border-color: #003300;
+	box-shadow: 0 1px 1px #d4d4d4 inset;
+	color: #E0E0E0;
+	padding-bottom: 8px;
+	margin-bottom: -1px;
+}
