@@ -15,9 +15,9 @@ class recenttopics_module
 {
 	public $u_action;
 
-	function main($id, $mode)
+	public function main($id, $mode)
 	{
-		global $config, $phpbb_extension_manager, $request, $template, $user;
+		global $config, $phpbb_extension_manager, $request, $template, $user, $db;
 
 		$user->add_lang('acp/common');
 		$this->tpl_name = 'acp_recenttopics';
