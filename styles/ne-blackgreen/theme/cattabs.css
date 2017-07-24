@@ -1,6 +1,12 @@
+#categories  .tab > a {
+	background-color: #393939;
+	color: #00DD00;
+	box-shadow: 0 1px 1px #d4d4d4 inset;	
+}
+
 #categories  .tab > a:hover {
-	background-color: #4E4E4E;
-	color: #E0E0E0;
+	background-color: #E0E0E0;
+	color: #101010;
 }
 
 #categories .activetab > a,
